@@ -1,2 +1,0 @@
-# Vanc
-lxgit
